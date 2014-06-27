@@ -8,7 +8,6 @@
         r2=(-b-math.sqrt(b**2-4*a*c))/2/a
         return(r1,r2)
     find_roots(1,-5.86,8.5408)
-        
 
 
 
@@ -71,21 +70,18 @@
 
 
     def backward(n):
-        a=
+        #a=
         for i in range(1,n+1):
             j=n-i+1
             return j
             #return factorial(j)
         
     backward(10)
-    
-    ### 
 
 
-      File "<ipython-input-18-39c239409d34>", line 2
-        a=
-          ^
-    SyntaxError: invalid syntax
+
+
+    10
 
 
 
